@@ -48,17 +48,12 @@
 
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/italoseara/" target="blank">
-  <img align="center"
-    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="azzar" height="30"/>
-</a>
-<a href="mailto:italo.sseara@gmail.com" target="blank">
+<a href="mailto: wilsonsa004@outlook.com" target="blank">
   <img align="center"
     src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
     alt="azzar" height="30"/>
 </a>
-<a href="https://instagram.com/italo.sseara" target="blank">
+<a href="https://instagram.com/ws.fho" target="blank">
   <img align="center"
     src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
     alt="azzar" height="30"/>

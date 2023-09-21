@@ -12,7 +12,7 @@
 <a href = "wilsonsa004@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Wssfilho/Wssfilho/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Wssfilho/Wssfilho/blob/output/github-contribution-grid-snake.svg)
 
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = "40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width = "40" height = "40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" heifht = "40"/>

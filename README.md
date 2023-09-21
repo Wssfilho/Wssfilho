@@ -2,28 +2,28 @@
 <body>
 
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="./imgs/waving.gif">, Eu sou o Wilson</h1>
+  <h1 align="center">Olá<img width="35" src="./imgs/waving.gif">, Eu sou o Wilson</h1>
   <h4 align="center">Desenvolvedor Junior Bahia/Brasil</h4>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italoseara/italoseara/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italoseara/italoseara/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/italoseara/italoseara/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wssfilho/Wssfilho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wssfilho/Wssfilho/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wssfilho/Wssfilho/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🧮 **About me**
+## 🧮 **Sobre mim**
 
-- 🎓 I'm a Computer Science student at [UESC](http://uesc.br/).
-- 🌱 I’m currently learning **Java** and **Py**
-- 🏢 I'm open for internship and job opportunities
-- ⚡ Fun fact: I love to play games
+- 🎓 Estudante de Ciência da Computação na [UESC](http://uesc.br/).
+- 🌱 Atualmente aprendendo **Java** and **Py**
+- 🏢 Aberto a novas oportunidades
+- ⚡ Fun fact: I love code
 
 -----
 
-## 🛠️ **Skills**
+## 🛠️ **Habilidades**
 
-- **Languages**
+- **Linguagens**
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -44,7 +44,7 @@
 
 -----
 
-## 📫 **How to reach me**
+## 📫 **Encontre-me**
 
 <p align="center">
 <br/>

@@ -19,7 +19,7 @@
 - 🏢 Aberto a novas oportunidades
 - ⚡ Fun fact: I love code
 - English
-- - 🎓 Computer Science Student at [UESC](http://uesc.br/).
+- 🎓 Computer Science Student at [UESC](http://uesc.br/).
 - 🌱 Currently learning **Java** and **Py**
 - 🏢 Open to new opportunities
 - ⚡ Fun fact: I love code

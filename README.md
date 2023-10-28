@@ -2,8 +2,8 @@
 <body>
 
 <div align="center">
-  <h1 align="center">Olá<img width="35" src="./imgs/waving.gif">, Eu sou o Wilson</h1>
-  <h4 align="center">Desenvolvedor Junior Bahia/Brasil</h4>
+  <h1 align="center">Olá/Hello<img width="35" src="./imgs/waving.gif">, I´m Wilson Filho</h1>
+  <h4 align="center">Developer</h4>
 </div>
 
 <picture>
@@ -12,22 +12,29 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wssfilho/Wssfilho/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🧮 **Sobre mim**
-
+## 🧮 **Sobre mim/about me**
+- Portuguese
 - 🎓 Estudante de Ciência da Computação na [UESC](http://uesc.br/).
 - 🌱 Atualmente aprendendo **Java** and **Py**
 - 🏢 Aberto a novas oportunidades
+- ⚡ Fun fact: I love code
+- English
+- - 🎓 Computer Science Student at [UESC](http://uesc.br/).
+- 🌱 Currently learning **Java** and **Py**
+- 🏢 Open to new opportunities
 - ⚡ Fun fact: I love code
 
 -----
 
 ## 🛠️ **Habilidades**
 
-- **Linguagens**
+- **Linguagens/Languagens**
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 - **Front-End Development**
 
@@ -44,7 +51,7 @@
 
 -----
 
-## 📫 **Encontre-me**
+## 📫 **Encontre-me/find me**
 
 <p align="center">
 <br/>

@@ -2,7 +2,7 @@
 <body>
 
 <div align="center">
-  <h1 align="center">Olá/Hello<img width="35" src="[./imgs/waving.gif](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)">, I´m Wilson Filho</h1>
+  <h1 align="center">Olá/Hello>, I´m Wilson Filho</h1>
   <h4 align="center">Developer</h4>
 </div>
 

@@ -52,6 +52,7 @@
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA%20-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 -----
 

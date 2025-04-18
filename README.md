@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1 align="center">Olá/Hello>, I´m Wilson Filho</h1>
-  <h4 align="center">Developer</h4>
+  <h4 align="center">Back-end Developer</h4>
 </div>
 
 <picture>

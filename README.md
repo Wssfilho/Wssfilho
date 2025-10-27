@@ -15,12 +15,12 @@
 ## 🧮 **Sobre mim/about me**
 - Portuguese
 - 🎓 Estudante de Ciência da Computação na [UESC](http://uesc.br/).
-- 🌱 Atualmente aprendendo **Java**, **Py**, **C# ASP .NET MVC** and **DataBase II**
+- 🌱 Atualmente aprendendo **Py**, **C# ASP .NET, NestJs e React**
 - 🏢 Aberto a novas oportunidades
 - ⚡ Fun fact: "De tudo um pouco, focado em um"
 - English
 - 🎓 Computer Science Student at [UESC](http://uesc.br/).
-- 🌱 Currently learning **Java**, **Py**, **C# ASP .NET MVC** and **DataBase II**
+- 🌱 Currently learning **Py**, **C# ASP .NET, NestJs and React**
 - 🏢 Open to new opportunities
 - ⚡ Fun fact: “A bit of everything, focused on one”
 

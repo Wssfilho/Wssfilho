@@ -23,7 +23,8 @@
 - ⚡ Fun fact: “A bit of everything, focused on one”
 
 -----
-
+<div align="center">
+  
 ## 🛠️ **Habilidades**
 
 - **Languagens and Frameworks**
@@ -40,12 +41,16 @@
     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
     ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
   
-
+</div>
+<div align="center">
 
 - **Front-End Development**
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
+
+<div align="center">
 
 - **Softwares, tools and system**
     ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -62,6 +67,8 @@
    
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
+<div align="center">
 
 - **Data Bases skills**
 
@@ -70,10 +77,7 @@
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)\
      ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-- **Recent Work**
-  
-  ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+</div>
 
 -----
 

@@ -88,7 +88,7 @@
     src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
     alt="azzar" height="30"/>
 </a>
-<a href="https://instagram.com/ws.fho" target="blank">
+<a href="https://instagram.com/ws.fll" target="blank">
   <img align="center"
     src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
     alt="azzar" height="30"/>

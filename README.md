@@ -11,9 +11,9 @@
 
 ---
 
-**Back-end developer** · Computer Science graduate from [UESC](http://uesc.br/) · Open to new opportunities
+**Back-end developer in unforgetting** · Computer Science graduate from [UESC](http://uesc.br/) · Open to new opportunities
 
-My focus is back-end development, with Node.js, TypeScript, and NestJS at the center of my stack. My interests include APIs, data persistence, and well-structured applications, alongside Python and the .NET ecosystem.
+My focus is back-end development, with Node.js, TypeScript, and NestJS at the center of my stack. My interests include APIs, data persistence, and well-structured applications, alongside Python ecosystem.
 
 ---
 
@@ -21,8 +21,9 @@ My focus is back-end development, with Node.js, TypeScript, and NestJS at the ce
 
 - 🔧 Back-end development with Node.js, TypeScript, and NestJS
 - 🗄️ APIs and relational databases
+- 📚 Computer Science student, always shipping something on the side
 - 🌐 Connecting back-end services with web interfaces
-- 🟢 Open to new opportunities in software development
+- 🟢 Open to new opportunities in software development like internship / junior
 
 ---
 
